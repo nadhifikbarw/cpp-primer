@@ -1,0 +1,1 @@
+This chapter is great to get started using C++ language to do standard basic programming. I was lazy to do some exercises in this chapter that's why some exercise only contains program that return 0 instead of me answering the trivial basic questions.
